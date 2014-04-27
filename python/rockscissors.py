@@ -2,7 +2,6 @@
 """
 Created on Tue Oct 15 11:15:08 2013
 
-@author: e038291
 """
 
 import random
